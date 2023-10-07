@@ -963,13 +963,7 @@
          width: 195px;
          justify-self: center;
      }
-     .projects__container .swiper-button-next {
-        right: 1rem;
-    }
-
-    .projects__container .swiper-button-prev {
-        left: 1rem;
-    }
+     
  }
 
  /* For medium devices */
