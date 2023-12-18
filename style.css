@@ -543,6 +543,7 @@
 
  .qualification__country {
      margin-bottom: .75rem;
+     max-width: 300px;
  }
 
  .qualification__img {
@@ -1021,7 +1022,7 @@
              padding-right: 0;
          }
 
-         .skills__container,
+         
          .qualification__container,
          .services__container,
          .contact__container {
@@ -1029,7 +1030,7 @@
              column-gap: 5rem;
          }
 
-         .skills__container,
+         
          .services__container {
              column-gap: 5rem;
          }
@@ -1200,7 +1201,7 @@
 
      .home__info {
          grid-template-rows: repeat(3, 130px);
-         row-gap: 4rem;
+         row-gap: 5rem;
          margin-top: 16rem;
      }
 
